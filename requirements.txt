@@ -1,0 +1,13 @@
+#  LLM + Google API Dependencies
+google-generativeai        # Gemini API SDK → used for calling Gemini 1.5 flash/pro models
+google-api-python-client   # Google Custom Search API client (if using real Google Search)
+python-dotenv              # Loads .env file (API keys) securely without exposing them
+
+#  FastAPI Backend + Server
+fastapi                    # Main backend framework to build API endpoints
+uvicorn[standard]          # ASGI server used to run FastAPI app (with auto-reload support)
+
+#  HTTP Requests + Data Handling
+requests                   # Used by GoogleSearchTool to send HTTP requests to Google Search API
+pydantic                   # Validates request/response models in FastAPI
+typing_extensions          # Adds advanced typing support (for Python < 3.12 compatibility)
